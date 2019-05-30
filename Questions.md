@@ -1,0 +1,3 @@
+-How do I eliminate the excess of letters in the png images containing text?
+-How do I do the apple in the navbar?
+-The flag in the footer. How to position it following the text?
