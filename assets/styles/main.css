@@ -106,7 +106,7 @@ footer ul,
 footer div
 {
     display: flex;
-    flex-direction: horizontal;
+    flex-direction: row;
 }
 
 footer div{
